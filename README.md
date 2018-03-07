@@ -9,3 +9,11 @@ The advantage of this project is it can be used as a remote to control appliance
 and big halls as it's range is very large (upto 100 metres).It can also be used to control a cluster
 of appliances or collect data from multiple nodes to a single node as one Xbee can recieve data from 
 multiple other Xbees.
+
+The components used are:
+1 Arduino Uno
+2 Xbee and 2 Xbee connecters
+1 Buzzer
+1 Pushbutton switch
+1 LED
+Jumper Wires
